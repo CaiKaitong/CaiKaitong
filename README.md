@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
+我是一名中山大学2023级的本科生，欢迎来到我的主页👏👏
+<p align="left">
+- 🌱 我最近在学习 **游戏策略Agent，因果VLM，多智能体协作策略，机器人技术等**
 
+- 👯 我期望能与他人合作进行 **机器人技术开发，多模态，智能体协作等**
+</p>
 <!--
 **CaiKaitong/CaiKaitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
