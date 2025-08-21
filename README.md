@@ -11,11 +11,18 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
-    <b>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</b><br>
-    <i>EMNLP 2025 MainConference</i><br>
-    Jusheng Zhang, Yijia Fan, <strong>Kaitong Cai</strong>, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang <br>
+    <div style="font-size: 28px; font-weight: bold; margin-bottom: 8px;">
+      DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off
+    </div>
+    <div style="font-size: 20px; font-style: italic; margin-bottom: 6px;">
+      EMNLP 2025 MainConference
+    </div>
+    <div style="font-size: 18px;">
+      Jusheng Zhang, Yijia Fan, <strong>Kaitong Cai</strong>, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang
+    </div>
   </div>
 </div>
+
 
 </p>
 
