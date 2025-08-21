@@ -18,9 +18,9 @@
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
     <div class="paper-title">
-      DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off
+      <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
     </div>
-    <div class="paper-conf">EMNLP 2025 MainConference</div>
+    <div class="paper-conf"><strong>EMNLP 2025 MainConference</strong></div>
     <div class="paper-auth">
       Jusheng Zhang, Yijia Fan, <strong>Kaitong Cai</strong>, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang
     </div>
