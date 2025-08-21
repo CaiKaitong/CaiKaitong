@@ -8,34 +8,18 @@
 
 ### 📝 Publications
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-
-  <!-- 左边：图片 -->
-  <div style="flex: 0 0 auto; margin-right: 16px;">
-    <img src="diffusion.png" alt="paper cover" width="250">
-  </div>
-
-  <!-- 右边：文字 -->
-  <div style="flex: 1;">
-    <div style="font-size: 22px; font-weight: bold; margin-bottom: 6px;">
-      DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
+  <div>
+    <div class="paper-title">
+      <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
     </div>
-    <div style="font-size: 16px; font-style: italic; margin-bottom: 4px;">
-      EMNLP 2025 Main Conference
-    </div>
-    <div style="font-size: 15px; margin-bottom: 6px;">
+    <div class="paper-conf"><strong>EMNLP 2025 MainConference</strong></div>
+    <div class="paper-auth">
       Jusheng Zhang, Yijia Fan, <strong>Kaitong Cai</strong>, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang
     </div>
-    <div style="font-size: 14px; color: #0056b3;">
-      <a href="#" style="margin-right: 10px;">Paper</a>
-      <a href="#" style="margin-right: 10px;">PDF</a>
-      <a href="#" style="margin-right: 10px;">Code</a>
-      <a href="#">BibTex</a>
-    </div>
   </div>
-
 </div>
-
 
 
 
