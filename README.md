@@ -11,10 +11,9 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
-    <b>Dual-Phase Playtime-guided Recommendation</b><br>
-    <i>MM '25, Dublin, Ireland</i><br>
-    Jusheng Zhang, et al. <br>
-    [<a href="link_to_pdf">PDF</a>] [<a href="link_to_code">Code</a>] [<a href="link_to_arxiv">arXiv</a>]
+    <b>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</b><br>
+    <i>EMNLP 2025 MainConference</i><br>
+    Jusheng Zhang, Yijia Fan, **Kaitong Cai**, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang <br>
   </div>
 </div>
 
