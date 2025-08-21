@@ -8,12 +8,6 @@
 
 ### 📝 Publications
 
-<style>
-  .paper-title { font-size: 28px; font-weight: bold; margin-bottom: 8px; }
-  .paper-conf  { font-size: 20px; font-style: italic; margin-bottom: 6px; }
-  .paper-auth  { font-size: 18px; }
-</style>
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
