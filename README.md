@@ -9,7 +9,7 @@
 ### 📝 Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="[paper_cover1.png](https://github.com/CaiKaitong/CaiKaitong/blob/main/diffusion.png)" alt="paper cover" width="120" style="margin-right: 20px;">
+  <img src="diffusion.png" alt="paper cover" width="120" style="margin-right: 20px;">
   <div>
     <b>Dual-Phase Playtime-guided Recommendation</b><br>
     <i>MM '25, Dublin, Ireland</i><br>
