@@ -9,9 +9,9 @@
 <div align="center">
 <img src="tumblr_db710c2fd5b3e033693aaa5a42cb1711_c974f1a8_500.webp" align="right">
 </div>
-🤯 我最近在学习 **游戏策略Agent，因果VLM，多智能体协作策略，机器人技术等**
+🤯 我最近在学习 <strong>游戏策略Agent，因果VLM，多智能体协作策略，机器人技术等</strong>
 <br>
-🤖 我期望能与他人合作进行 **机器人技术开发，多模态，智能体协作等**
+🤖 我期望能与他人合作进行 <strong>机器人技术开发，多模态，智能体协作等</strong>
 <br>
 😎 我是一个27fall的本科生，我在积极寻求PHD学位，如果您有任何好的岗位十分希望您联系我
 <br>
