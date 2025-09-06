@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h3 align="center"> 🥰 ~ 𝓟𝓾𝓫𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 ~ 🥰 </h3>
+<h2 align="center"> 🥰 ~ 𝓟𝓾𝓫𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 ~ 🥰 </h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
