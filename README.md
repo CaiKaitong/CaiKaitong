@@ -32,7 +32,7 @@
     <div class="paper-title">
       <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
     </div>
-    <div class="paper-conf"><strong>EMNLP 2025 MainConference</strong></div>
+    <div class="paper-conf"><strong style="color: red;">(EMNLP 2025 MainConference)</strong></div>
     <div class="paper-auth">
       Jusheng Zhang, Yijia Fan, <strong>Kaitong Cai</strong>, Zimeng Huang, Xiaofei Sun, Jian Wang, Chengpei Tang, Keze Wang
     </div>
