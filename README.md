@@ -11,7 +11,8 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
-    <div class="paper-title" style="font-size: 5.0em;"> <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
+    <div class="paper-title" style="font-size: 2.5em !important; line-height: 1.2 !important;">
+    <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
     </div>
     <div class="paper-conf"><strong>EMNLP 2025 MainConference</strong></div>
     <div class="paper-auth">
