@@ -6,6 +6,9 @@
 <h2 align="center"> 👻 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👻 </h2>
 我是一名中山大学2023级的本科生，欢迎来到我的主页👏👏
 <p align="left">
+<div align="center">
+<img src="tumblr_db710c2fd5b3e033693aaa5a42cb1711_c974f1a8_500.webp" align="right">
+</div>
 🤯 我最近在学习 **游戏策略Agent，因果VLM，多智能体协作策略，机器人技术等**
 
 🤖 我期望能与他人合作进行 **机器人技术开发，多模态，智能体协作等**
