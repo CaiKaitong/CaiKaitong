@@ -14,7 +14,10 @@
 🤖 我期望能与他人合作进行 **机器人技术开发，多模态，智能体协作等**
 
 😎 我是一个27fall的本科生，我在积极寻求PHD学位，如果您有任何好的岗位十分希望您联系我
-
+<br>
+<br>
+<br>
+<br>
 <h3 align="center"> 🥰 ~ 𝓟𝓾𝓫𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 ~ 🥰 </h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
