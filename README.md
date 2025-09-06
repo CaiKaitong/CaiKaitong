@@ -1,6 +1,6 @@
 ## 感谢你的访问 👋 
 <div align="center">
-<img src="tumblr_6aef9b8cbd57f4637b8be35bd747e259_14e2d133_500.webp">
+<img src="tumblr_6aef9b8cbd57f4637b8be35bd747e259_14e2d133_500.webp" align="right">
 </div>
 我是一名中山大学2023级的本科生，欢迎来到我的主页👏👏
 <p align="left">
