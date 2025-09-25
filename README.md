@@ -36,7 +36,10 @@
     </div>
     <div class="paper-conf"><strong style="color: red;">(Nips 2025 poster)</strong></div>
     <div class="paper-auth">
-       Jusheng Zhang, <strong>Kaitong Cai</strong>, Yijia Fan, Jian Wang, Keze Wang,
+        Jusheng Zhang*, <strong>Kaitong Cai*</strong>, Yijia Fan, Jian Wang, Keze Wang,
+    </div>
+    <div class="paper-contribution" style="font-size: 0.9em; color: #555; margin-top: 4px;">
+        * Equal contribution
     </div>
   </div>
 </div>
