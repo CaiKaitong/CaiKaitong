@@ -53,7 +53,10 @@
     </div>
     <div class="paper-conf"><strong style="color: red;">(EMNLP 2025 MainConference)</strong></div>
     <div class="paper-auth">
-      Jusheng Zhang, <strong>Kaitong Cai</strong>, Yijia Fan, Ningyuan Liu, Keze Wang
+      Jusheng Zhang*, <strong>Kaitong Cai*</strong>, Yijia Fan, Ningyuan Liu, Keze Wang
+    </div>
+    <div class="paper-contribution" style="font-size: 0.9em; color: #555; margin-top: 4px;">
+        * Equal contribution
     </div>
   </div>
 </div>
