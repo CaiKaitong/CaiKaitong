@@ -32,6 +32,33 @@
   <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
     <div class="paper-title">
+      <strong>CF-VLM: Counterfactual Vision-Language Fine-tuning</strong>
+    </div>
+    <div class="paper-conf"><strong style="color: red;">(Nips 2025 poster)</strong></div>
+    <div class="paper-auth">
+       Jusheng Zhang, <strong>Kaitong Cai</strong>, Yijia Fan, Jian Wang, Keze Wang,
+    </div>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
+  <div>
+    <div class="paper-title">
+      <strong>MAT-Agent: Learning to Dynamically Optimize Multi-Label Image Classification Training via Multi-Agent Collaboration</strong>
+    </div>
+    <div class="paper-conf"><strong style="color: red;">(EMNLP 2025 MainConference)</strong></div>
+    <div class="paper-auth">
+      Jusheng Zhang, <strong>Kaitong Cai</strong>, Yijia Fan, Ningyuan Liu, Keze Wang
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
+  <div>
+    <div class="paper-title">
       <strong>DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off</strong>
     </div>
     <div class="paper-conf"><strong style="color: red;">(EMNLP 2025 MainConference)</strong></div>
@@ -40,7 +67,6 @@
     </div>
   </div>
 </div>
-
 
 
 </p>
