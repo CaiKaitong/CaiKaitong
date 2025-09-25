@@ -29,7 +29,7 @@
 <h2 align="center"> 🥰 ~ 𝓟𝓾𝓫𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 ~ 🥰 </h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
+  <img src="Frame 819.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
     <div class="paper-title">
       <strong>CF-VLM: Counterfactual Vision-Language Fine-tuning</strong>
@@ -43,7 +43,7 @@
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="diffusion.png" alt="paper cover" width="1440" style="margin-right: 20px;">
+  <img src="Frame 863.png" alt="paper cover" width="1440" style="margin-right: 20px;">
   <div>
     <div class="paper-title">
       <strong>MAT-Agent: Learning to Dynamically Optimize Multi-Label Image Classification Training via Multi-Agent Collaboration</strong>
